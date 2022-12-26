@@ -1,0 +1,5 @@
+Node# 	 Minimum Distance from node: 2
+0   			 72
+1   			 70
+2   			  no path 
+3   			 70
